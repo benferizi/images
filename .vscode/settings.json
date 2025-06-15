@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "restructuredtext.linter.disabledLinters": [
+        "doc8"
+    ],
+    "cmake.sourceDirectory": "/home/user/Documents/images/src/cpp/test-project"
+}
